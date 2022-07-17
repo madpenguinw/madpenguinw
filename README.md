@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me:
-- Python Backend Developer from Saint-Petersburg, Russia :ru:
+- Python Backend Developer from Saint-Petersburg, Russia :RU:
 - Graduated from the bachelor's degree at the St. Petersburg Polytechnic University 🎊
 - Completed the Yandex.Practicum Python-Developer courses 🚀
 - Currently looking for my place in the world 🌍
