@@ -22,6 +22,7 @@
 - Currently looking for my place in the world 🌍
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="40"/>&nbsp;
@@ -39,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="70"/>
 </div>
 
+---
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=madpenguinw&hide=contribs&show_icons=true&theme=tokyonight">
