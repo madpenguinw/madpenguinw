@@ -13,5 +13,13 @@
   </a>
 </div>
 
-<h2>Graduated from the bachelor's degree at the St. Petersburg Polytechnic University and completed the Yandex.Practicum courses.
-Currently looking for my place in the world🌍</h2>
+---
+
+### :man_technologist: About Me:
+- Python Backend Developer from Saint-Petersburg, Russia :ru:
+- Graduated from the bachelor's degree at the St. Petersburg Polytechnic University 🎊
+- Completed the Yandex.Practicum Python-Developer courses 🚀
+- Currently looking for my place in the world 🌍
+
+---
+### :hammer_and_wrench: Languages and Tools :
