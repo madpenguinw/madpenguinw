@@ -13,4 +13,5 @@
   </a>
 </div>
 
-
+<h2>Graduated from the bachelor's degree at the St. Petersburg Polytechnic University and completed the Yandex.Practicum courses.
+Currently looking for my place in the world🌍</h2>
