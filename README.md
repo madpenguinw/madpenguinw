@@ -18,13 +18,10 @@
 ### :man_technologist: About Me:
 - Web Developer from Earth 🌍
 - Keen on Backend 💻
-- Graduated from the <a href="https://iets.spbstu.ru/edu/13.03.03/13.03.03_02/">bachelor's degree</a> at the St. Petersburg Polytechnic University🎊
-- Currently studying for a <a href="https://abit.itmo.ru/program/15852">master's degree</a> at ITMO University on web-technologies 🔮
-- Experienced in Python, trying myself in JavaScript (and TypeScript) 🚀
-- Currently located in <a href="https://goo.gl/maps/Ycy9oJyNHrk3YZR28">Yerevan</a> 🗻
-
+- Graduated from the <a href="https://abit.itmo.ru/program/15852">master's degree</a> at ITMO University on web-technologies 🎊
+- Experienced in Python, trying myself in JavaScript 🚀
+- Currently located in Saint-Petersburg 🌦️
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="40"/>&nbsp;
