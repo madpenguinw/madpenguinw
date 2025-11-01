@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/VJwlRUJ91QvM58zdLk/giphy.gif" width="150"/>
 </div>
 
-<h1 align="center">Hi:wave:, I'm Mikhail Sokolov</h1>
+<h1 align="center">Hi 👋, I'm Mikhail Sokolov</h1>
 
 <div id="badges" align="center">
   <a href="https://t.me/lmikhailsokolovl">
