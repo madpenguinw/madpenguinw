@@ -17,9 +17,10 @@
 
 ### :man_technologist: About Me:
 - Web Developer from Earth 🌍
-- Keen on Backend 💻
+- Keen on full-stack web development 💻
+- Launching projects into production from scratch 📝
+- Experienced in Python, Go and JS/TS 🚀
 - Graduated from the <a href="https://abit.itmo.ru/program/15852">master's degree</a> at ITMO University on web-technologies 🎊
-- Experienced in Python, trying myself in JavaScript 🚀
 - Currently located in Saint-Petersburg 🌦️
 ---
 ### :hammer_and_wrench: Languages and Tools :
